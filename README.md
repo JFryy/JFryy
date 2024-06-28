@@ -1,1 +1,4 @@
-[![JFryy's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/JFryy/github-readme-stats)
+### Hey, I'm James
+
+I like sharing and collaborating on software. I like simple, performant, and ergonomic software development tools too. I'd like to do more, but faster, with less.
+![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=JFryy&theme=lax)
